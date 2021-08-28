@@ -1,0 +1,23 @@
+{
+  "name": "daily_template_cli",
+  "version": "1.0.1",
+  "description": " for download usually used template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "daily_template_cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustDoIt521/daily_template_cli.git"
+  },
+  "author": "lishang",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "ora": "^5.4.1"
+  }
+}
