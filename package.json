@@ -1,6 +1,6 @@
 {
   "name": "daily_template_cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": " for download usually used template",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-console.log('111');
 const { program } = require('commander');
 
 // 定义命令 -v  --verson
